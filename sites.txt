@@ -3,3 +3,4 @@ https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/prox
 https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt
 https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt
 https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+https://www.proxyscan.io/download?type=socks5
